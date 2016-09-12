@@ -3,6 +3,7 @@
 ```
 $ cd xxx
 $ npm install
+$ webpack --config webpack.lib.js --progress --colors
 ```
 
 ## 运行项目
