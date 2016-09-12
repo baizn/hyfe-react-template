@@ -3,13 +3,12 @@
 ```
 $ cd xxx
 $ npm install
-$ webpack --config webpack.lib.js --progress --colors
+$ npm run prebuild
 ```
 
 ## 运行项目
 ### 开发环境
 ```
-$ npm run prebuild
 $ npm start
 ```
 
